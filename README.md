@@ -1,3 +1,3 @@
-# Bug Hunting Docs
+# Bug Hunting Documentations
 
-haiii ihsan
+aku ihsan
