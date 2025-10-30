@@ -20,9 +20,9 @@ cat subdomain.txt | httpx -sc -title -server -td -ports 80,443,8080,8000,8888 -t
 
 ```sh
 cat subdomains.txt \
-  | alterx -enrich  -silent \
-  | dnsx -a -aaaa -cname -r resolvers.txt -silent \
-  | httpx -silent -title -status-code -threads 40 -o subdomains-alive.txt
+  | alterx -enrich \
+  | dnsx -a -aaaa -cname -r resolvers.txt \
+  | httpx -title -status-code -threads 40 -o subdomains-alive.txt
 
 ```
 
