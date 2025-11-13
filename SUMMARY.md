@@ -29,6 +29,7 @@
         * [CORS Bypass](web-application/vulnerability-discovery/a02-security-misconfiguration/cross-origin-resource-sharing-cors-vulnerability/cors-bypass.md)
         * [PoC](web-application/vulnerability-discovery/a02-security-misconfiguration/cross-origin-resource-sharing-cors-vulnerability/poc.md)
       * [Simple Storage Service (S3) Bucket](web-application/vulnerability-discovery/a02-security-misconfiguration/simple-storage-service-s3-bucket.md)
+      * [Assets Gathering](web-application/vulnerability-discovery/a02-security-misconfiguration/assets-gathering.md)
     * [A05: Injection](web-application/vulnerability-discovery/a05-injection/README.md)
       * [SQL Injection](web-application/vulnerability-discovery/a05-injection/sql-injection.md)
       * [Cross-Site Scripting (XSS)](web-application/vulnerability-discovery/a05-injection/cross-site-scripting-xss/README.md)
