@@ -22,6 +22,7 @@
       * [Insecure Direct Object Reference (IDOR)](web-application/vulnerability-discovery/a01-broken-access-control/insecure-direct-object-reference-idor.md)
       * [Vertical Privilege Escalation](web-application/vulnerability-discovery/a01-broken-access-control/vertical-privilege-escalation.md)
       * [Cross-Site Request Forgery](web-application/vulnerability-discovery/a01-broken-access-control/cross-site-request-forgery.md)
+      * [Authentication Vulnerability](web-application/vulnerability-discovery/a01-broken-access-control/authentication-vulnerability.md)
     * [A02: Security Misconfiguration](web-application/vulnerability-discovery/a02-security-misconfiguration/README.md)
       * [Vulnerabilities](web-application/vulnerability-discovery/a02-security-misconfiguration/vulnerabilities.md)
       * [Subdomain Takeover](web-application/vulnerability-discovery/a02-security-misconfiguration/subdomain-takeover/README.md)
